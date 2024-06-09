@@ -1,8 +1,7 @@
 
 # <img src= "https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif?cid=790b76112v2y2hixi91qrqay4av5tbmfcix19hpp7di5bcb6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> Hey nice to meet you 🤠
-------------------------
 
-Student | Junior Back-end Developer. Lover of good stories and passionate about learning
+ Student | Junior Back-end Developer. Lover of good stories and passionate about learning.
 
 ### Socials
 
@@ -19,3 +18,11 @@ Student | Junior Back-end Developer. Lover of good stories and passionate about 
 <a href="http://www.github.com/Derjai"><img src="https://github-readme-stats.vercel.app/api?username=Derjai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Derjai's GitHub stats" /></a>
 
 <a href="https://github.com/Derjai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derjai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Derjai/https://github.com/Derjai/reto_Guardians" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Derjai&repo=https://github.com/Derjai/reto_Guardians&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Derjai/https://github.com/Derjai/StaffControl" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Derjai&repo=https://github.com/Derjai/StaffControl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Derjai/https://github.com/Derjai/Book_E-commerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Derjai&repo=https://github.com/Derjai/Book_E-commerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
