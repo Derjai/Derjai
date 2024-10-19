@@ -1,7 +1,7 @@
 
 # <img src= "https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif?cid=790b76112v2y2hixi91qrqay4av5tbmfcix19hpp7di5bcb6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> Hey nice to meet you 🤠
 
- Student | Junior Back-end Developer. Lover of good stories and passionate about learning.
+ Student | Junior Back-end and Mobile Developer. Lover of good stories and passionate about learning.
 
 ### Socials
 
